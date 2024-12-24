@@ -1,0 +1,9 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+
+env/*
+include/&
+lib/*
+
+src/.aider.*
+src/gemini # ignore all files in src/gemini       
+src/gemini*
